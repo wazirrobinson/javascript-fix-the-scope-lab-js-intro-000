@@ -23,7 +23,7 @@ var funkyFunction = function(theFunk) {
 
   return function() {
 
-    return "FUNKY!";
+    return "FUNKY!"
   }
 }
 // //
